@@ -1,1 +1,1 @@
-# cosmo_param_calcs
+# cosmo-param-calcs
